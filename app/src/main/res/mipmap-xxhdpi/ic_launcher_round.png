@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<sdk_metadata>
+  <library  groupId="com.urbanairship.android" artifactId="urbanairship-sdk" recommended-version="9.3.1" >
+    <versions from="9.1.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-sdk:9.1.0" />
+    <versions from="9.0.0" to="9.0.4" status="deprecated" description="Version is known issues with in-app automation. Please update to version &lt;current&gt; as soon as possible." />
+    <versions from="8.9.1" to="8.9.2" status="deprecated" description="Version is known to have stability issues. Please update to version &lt;current&gt; as soon as possible. See &lt;url&gt; for more details." url="https://github.com/urbanairship/android-library/blob/master/CHANGELOG.md#version-893---october-17-2017" />
+    <versions from="6.1.4" to="8.7.0" status="deprecated" description="Version is known to have Android O compatibility issues. Please update to version &lt;current&gt; as soon as possible." />
+    <versions from="9.3.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-sdk:9.3.0" />
+    <versions from="9.3.1" status="recommended" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-sdk:9.3.1" />
+  </library>
+  <library  groupId="com.urbanairship.android" artifactId="urbanairship-core" recommended-version="9.3.1" >
+    <versions from="9.1.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-core:9.1.0" />
+    <versions from="9.3.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-core:9.3.0" />
+    <versions from="9.3.1" status="recommended" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-core:9.3.1" />
+  </library>
+  <library  groupId="com.urbanairship.android" artifactId="urbanairship-fcm" recommended-version="9.3.1" >
+    <versions from="9.1.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-fcm:9.1.0" />
+    <versions from="9.3.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-fcm:9.3.0" />
+    <versions from="9.3.1" status="recommended" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-fcm:9.3.1" />
+  </library>
+  <library  groupId="com.urbanairship.android" artifactId="urbanairship-gcm" recommended-version="9.3.1" >
+    <versions from="9.1.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-gcm:9.1.0" />
+    <versions from="9.3.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-gcm:9.3.0" />
+    <versions from="9.3.1" status="recommended" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-gcm:9.3.1" />
+  </library>
+  <library  groupId="com.urbanairship.android" artifactId="urbanairship-adm" recommended-version="9.3.1" >
+    <versions from="9.1.0" status="deprecated" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-adm:9.1.0" />
+    <versions from="9.3.0" status="recommended" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-adm:9.3.0" />
+    <versions from="9.3.1" status="recommended" version-literal="!SDK-VERSION-STRING!:com.urbanairship.android:urbanairship-adm:9.3.1" />
+  </library>
+  <library  groupId="com.tune" artifactId="tune-marketing-console-sdk" recommended-version="5.3.0" >
+    <versions from="5.3.0" version-literal="com.tune.BuildConfig.5.3.0" description="Bug affecting SDK data quality" />
+    <versions from="5.2.1" version-literal="com.tune.BuildConfig.5.2.1" />
+    <versions from="5.2.0" version-literal="com.tune.BuildConfig.5.2.0" />
+    <versions from="5.1.1" status="deprecated" version-literal="com.tune.BuildConfig.5.1.1" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="5.0.0" to="5.0.2" status="deprecated" version-literal="com.tune.BuildConfig.5.0.0" description="Bug affecting SDK data quality" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.15.2" to="4.16.0" status="deprecated" version-literal="com.tune.BuildConfig.4.15.2" description="Bug affecting SDK data quality" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.15.1" version-literal="com.tune.BuildConfig.4.15.1" description="Bug affecting SDK performance" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.15.0" version-literal="com.tune.BuildConfig.4.15.0" description="Bug affecting SDK performance" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.14.0" version-literal="com.tune.BuildConfig.4.14.0" description="Bug affecting SDK performance" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.13.0" status="deprecated" version-literal="com.tune.BuildConfig.4.13.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.12.1" status="deprecated" version-literal="com.tune.BuildConfig.4.12.1" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.12.0" status="deprecated" version-literal="com.tune.BuildConfig.4.12.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.11.1" status="deprecated" version-literal="com.tune.BuildConfig.4.11.1" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.11.0" status="deprecated" version-literal="com.tune.BuildConfig.4.11.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.10.2" version-literal="com.tune.BuildConfig.4.10.2" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.10.1" version-literal="com.tune.BuildConfig.4.10.1" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.10.0" version-literal="com.tune.BuildConfig.4.10.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.9.0" version-literal="com.tune.BuildConfig.4.9.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.8.0" to="4.8.1" version-literal="com.tune.BuildConfig.4.8.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="4.0.0" to="4.7.1" status="deprecated" version-literal="com.tune.BuildConfig.4.0.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="3.0.0" to="3.11.4" status="deprecated" version-literal="com.tune.BuildConfig.3.0.0" description="Bug affecting app stability" url="https://developers.tune.com/sdk/migrating-to-android-4-8-0-and-above/" />
+    <versions from="0.0.0" to="3.0.0" status="deprecated" description="Bug affecting app stability" />
+  </library>
+  <library  groupId="com.android.volley" artifactId="volley" recommended-version="1.1.0" >
+    <versions from="1.1.0" />
+    <versions from="1.1.0-rc2" status="deprecated" description="Bug affecting app stability" url="https://github.com/google/volley/releases" />
+    <versions from="1.1.0-rc1" status="deprecated" description="Bug affecting app stability" url="https://github.com/google/volley/releases" />
+    <versions from="1.0.0" status="deprecated" description="Bug affecting app stability" url="https://github.com/google/volley/releases" />
+  </library>
+  <library  groupId="com.google.guava" artifactId="guava" recommended-version="24.1-jre" >
+    <versions from="24.1-jre" />
+  </library>
+  <library  groupId="com.google.guava" artifactId="guava" recommended-version="25.0-android" >
+    <versions from="25.0-android" />
+    <versions from="24.1.1-android" status="insecure" description="Moderate security vulnerability" url="https://github.com/google/guava/wiki/CVE-2018-10237" />
+    <versions from="24.1-android" status="deprecated" description="Bug affecting app performance" url="https://github.com/google/guava/releases" />
+    <versions from="24.0-android" status="deprecated" description="Bug affecting app performance" url="https://github.com/google/guava/releases" />
+  </library>
+  <library  groupId="com.google.firebase" artifactId="firebase-analytics" recommended-version="15.0.0" >
+    <versions from="15.0.0" />
+    <versions from="12.0.1" />
+    <versions from="12.0.0" />
+    <versions from="11.8.0" />
+    <versions from="11.6.2" />
+    <versions from="11.6.0" />
+    <versions from="11.4.2" />
+    <versions from="11.4.0" />
+    <versions from="11.2.2" />
+    <versions from="11.2.0" />
+    <versions from="11.0.4" />
+    <versions from="11.0.2" />
+    <versions from="11.0.1" />
+    <versions from="11.0.0" />
+    <versions from="10.2.6" />
+    <versions from="10.2.4" />
+    <versions from="10.2.1" />
+    <versions from="10.2.0" />
+    <versions from="10.0.1" />
+    <versions from="10.0.0" />
+    <versions from="9.8.0" />
+    <versions from="9.6.1" />
+    <versions from="9.6.0" />
+    <versions from="9.4.0" />
+    <versions from="9.2.1" />
+    <versions from="9.2.0" />
+    <versions from="9.0.2" />
+    <versions from="9.0.1" />
+    <versions from="9.0.0" />
+  </library>
+  <library  groupId="com.google.dagger" artifactId="dagger-android" recommended-version="2.15" >
+    <versions from="2.15" />
+    <versions from="2.14.1" status="deprecated" description="Bug affecting SDK performance" url="https://github.com/google/dagger/releases/tag/2.15" />
+    <versions from="2.14" status="deprecated" description="Bug affecting SDK performance" url="https://github.com/google/dagger/releases/tag/2.15" />
+    <versions from="2.13" status="deprecated" description="

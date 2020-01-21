@@ -1,0 +1,9 @@
+package com.example.sqlite.ui;
+
+import android.app.Activity;
+import android.os.Bundle;
+import androidx.annotation.Nullable;
+import com.example.sqlite.R;
+
+public class ArtistDetail extends Activity {
+
