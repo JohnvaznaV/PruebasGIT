@@ -1,13 +1,11 @@
 package com.example.sqlite.ui;
 
-import android.app.Activity;
-import android.os.Bundle;
+    import android.app.Activity;import android.os.Bundle;
 
-import androidx.annotation.Nullable;
+    import androidx.annotation.Nullable;
 
-import com.example.sqlite.R;
+    import com.example.sqlite.R;
 
-public class ArtistDetail extends Activity {
+    public class ArtistDetail extends Activity {
 
-    @Override
-    protected void onCreate(@Nullable Bundle savedInst
+    @Overrideprotected void onCreate(@Nullable Bundle savedInst
